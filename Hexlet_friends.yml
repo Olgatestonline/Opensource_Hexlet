@@ -1,4 +1,4 @@
 ---
 issues:
   - url: "https://github.com/Hexlet/hexlet-friends/issues/445"
-  - url^ "https://github.com/Hexlet/hexlet-friends/issues/446"
+  - url: "https://github.com/Hexlet/hexlet-friends/issues/446"
